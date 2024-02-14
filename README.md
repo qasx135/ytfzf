@@ -1,5 +1,6 @@
 "first line from branch2"
 "second line from branch2"
+"third line from branch2"
 # NOTICE
 
 This project is no longer actively maintained, it should still work for the foreseeable future
