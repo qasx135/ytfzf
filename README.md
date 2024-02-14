@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 "first line from branch2"
 "second line from branch2"
 "third line from branch2"
+"first line from branch1"
+"second line from branch1"
+"third line from branch1"
+=======
+>>>>>>> branch1
 # NOTICE
 
 This project is no longer actively maintained, it should still work for the foreseeable future
